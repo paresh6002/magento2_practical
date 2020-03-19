@@ -1,0 +1,1 @@
+[19-Mar-2020 06:35:59 UTC] PHP Fatal error:  Allowed memory size of 792723456 bytes exhausted (tried to allocate 5242880 bytes) in /home/artwernw/public_html/magento-test/vendor/composer/composer/src/Composer/DependencyResolver/RuleSet.php on line 90
